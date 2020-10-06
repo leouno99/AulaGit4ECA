@@ -3,3 +3,7 @@ Este é um arquivo inicial!
 É mesmo!
 
 Tarããã
+
+
+Robson: "Mas na minha maquina funciona, Gestor"
+Gestor do Robson: "Então vamo subi a sua máquina em produção"
